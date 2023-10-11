@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\bin\Debug\net7.0\Generic_List_Collection.exe
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\bin\Debug\net7.0\Generic_List_Collection.deps.json
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\bin\Debug\net7.0\Generic_List_Collection.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\bin\Debug\net7.0\Generic_List_Collection.dll
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\bin\Debug\net7.0\Generic_List_Collection.pdb
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\Generic_List_Collection.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\Generic_List_Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\Generic_List_Collection.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\Generic_List_Collection.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\Generic_List_Collection.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\Generic_List_Collection.dll
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\refint\Generic_List_Collection.dll
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\Generic_List_Collection.pdb
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\Generic_List_Collection.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\Collections\Generic\32.Generic_List_Collection\Generic_List_Collection\Generic_List_Collection\obj\Debug\net7.0\ref\Generic_List_Collection.dll
