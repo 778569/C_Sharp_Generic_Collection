@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\bin\Debug\net7.0\Sort a List of Complex Type.exe
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\bin\Debug\net7.0\Sort a List of Complex Type.deps.json
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\bin\Debug\net7.0\Sort a List of Complex Type.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\bin\Debug\net7.0\Sort a List of Complex Type.dll
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\bin\Debug\net7.0\Sort a List of Complex Type.pdb
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\Sort a List of Complex Type.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\Sort a List of Complex Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\Sort a List of Complex Type.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\Sort a List of Complex Type.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\Sort a List of Complex Type.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\Sort a List of Complex Type.dll
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\refint\Sort a List of Complex Type.dll
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\Sort a List of Complex Type.pdb
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\Sort a List of Complex Type.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\Collections\Generic\33 Sort a List of Complex Type\Sort a List of Complex Type\Sort a List of Complex Type\obj\Debug\net7.0\ref\Sort a List of Complex Type.dll
